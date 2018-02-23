@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Button x:Name="button" Content="İBRAHİM BLL" HorizontalAlignment="Left" Margin="76,90,0,0" VerticalAlignment="Top" Width="375" Height="137" FontSize="48"/>
+        <Button x:Name="button" Content="İbrahim" HorizontalAlignment="Left" Margin="76,90,0,0" VerticalAlignment="Top" Width="375" Height="137" FontSize="48"/>
 
     </Grid>
 </Window>
